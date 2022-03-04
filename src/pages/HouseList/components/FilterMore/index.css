@@ -1,0 +1,72 @@
+.filterMore-root {
+    position: relative;
+}
+
+.filterMore-mask {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.filterMore-tags {
+    position: fixed;
+    top: 0;
+    left: 80px;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    padding-bottom: 50px;
+    z-index: 3;
+    background-color: #ffffff;
+}
+
+.filterMore-tag {
+    display: inline-block;
+    height: 32px;
+    width: 70px;
+    margin: 0 18px 15px 0;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    line-height: 32px;
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+}
+
+.filterMore-tagActive {
+    border: 1px solid #21b97a;
+    color: #21b97a;
+    background-color: #defaef;
+}
+
+.filterMore-dl {
+    padding: 0 15px;
+}
+
+.filterMore-dt {
+    margin: 20px 0;
+    font-size: 15px;
+}
+
+.filterMore-dd {
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 14px;
+}
+
+.filterMore-dd:last-child {
+    border-bottom: 0;
+}
+
+.filterFooter-footer {
+    position: fixed;
+    left: 80px;
+    right: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    z-index: 3;
+}
+

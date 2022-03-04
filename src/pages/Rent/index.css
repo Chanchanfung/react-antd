@@ -1,0 +1,22 @@
+.rent-root {
+    overflow: hidden;
+}
+
+.rent-houses {
+    padding: 0 10px;
+    background-color: #fff;
+}
+.rent-empty {
+    padding-top: 100px;
+    text-align: center;
+    color: #666;
+}
+
+.rent-emptyImg {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.rent-link {
+    color: #33be85;
+}

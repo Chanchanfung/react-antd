@@ -1,0 +1,20 @@
+.housepackage-root {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background: #fff;
+}
+
+.housepackage-item {
+    margin: 10px 0;
+    width: 20%;
+    line-height: 23px;
+}
+
+.housepackage-active {
+    color: #21b97a;
+}
+
+.housepackage-icon {
+    font-size: 23px;
+}

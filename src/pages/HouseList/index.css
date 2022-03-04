@@ -1,0 +1,37 @@
+/*顶部导航栏*/
+.houseHeader {
+    height: 45px;
+    background-color: #f5f6f5;
+    padding: 0 10px;
+}
+.searchHeader {
+    position: relative;
+    top: 0;
+}
+
+/* 左侧小箭头*/
+.houseHeader .icon-back {
+    font-size: 16px !important;
+    color: #999;
+}
+
+/*右侧图标*/
+.houseHeader .icon-map {
+    color: #00ae66;
+    font-size: 23px !important;
+}
+
+/*房屋列表样式*/
+.houseList-houseItem {
+    padding: 0 15px;
+}
+
+.houselist-loading {
+    height: 110px;
+    line-height: 120px;
+    background-color: #f6f5f6;
+}
+
+.houseList-houseItem .ReactVirtualized__List {
+    padding-bottom: 50px;
+}

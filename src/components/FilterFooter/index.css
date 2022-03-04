@@ -1,0 +1,25 @@
+.filterFooter-root {
+    margin-top: 20px;
+    border-top: 1px solid #e9e9e9;
+}
+
+.filterFooter-btn {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.FilterFooter-cancel {
+    flex: 1;
+    border-radius: 0;
+    color: #21b97a;
+}
+
+.FilterFooter-ok {
+    border-radius: 0;
+    flex: 2;
+    color: #ffffff;
+    background-color: #21b97a;
+}
