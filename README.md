@@ -16,6 +16,7 @@ $ yarn build
 
 ## 截图
 
-https://github.com/Chanchanfung/public/blob/master/ezgif.com-gif-maker%20(1).gif
+![image](https://raw.githubusercontent.com/Chanchanfung/public/master/ezgif.com-gif-maker.gif)
 
-https://github.com/Chanchanfung/public/blob/master/ezgif.com-gif-maker.gif
+![image](https://raw.githubusercontent.com/Chanchanfung/public/master/ezgif.com-gif-maker%20(1).gif)
+
